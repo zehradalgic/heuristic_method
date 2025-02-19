@@ -1,1 +1,1 @@
-# heuristic_method
+# a*_algorithm
